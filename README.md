@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning AI at the University of Florence
 - 💞️ I’m looking to collaborate on AI related questions
 - 📫 How to reach me: jay.senoner@edu.unifi.it or jay.senoner1999@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: 
 
 <!---
