@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jaysenoner99
-- 👀 I’m interested in Computer Science, Machine Learning, Artificial Intelligence, Quantum Computation and 
+- 👀 I’m interested in Computer Science, Machine Learning, Artificial Intelligence, Quantum Computation.
 - 🌱 I’m currently learning AI at the University of Florence
-- 💞️ I’m looking to collaborate on AI related questions
 - 📫 How to reach me: jay.senoner@edu.unifi.it or jay.senoner1999@gmail.com
 - ⚡ Fun fact: 
 
